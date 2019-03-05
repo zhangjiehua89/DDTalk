@@ -3,12 +3,12 @@ DDtalk 报业绩
 {
      "msgtype": "text",
      "text": {
-         "content": "大家，报业绩了！@1825718XXXX"
+         "content": "大家，报业绩了！@1"
      },
      "at": {
          "atMobiles": [
-             "1825718XXXX"
+             "1"
          ], 
-         "isAtAll": ture
+         "isAtAll": true
      }
  }
